@@ -1,6 +1,6 @@
 # DevWiki
 
-![Logo](logo.png)
+![Logo](logo.webp)
 
 ## Menu
 - [Home](frontpage.md)
